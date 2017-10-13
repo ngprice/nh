@@ -156,3 +156,5 @@ OPTIONS=hilite_pet,!toptenwin
 #OPTIONS=palette:bright cyan-0-255-255
 #OPTIONS=palette:white-255-255-255
 
+# Display boulders as "0" in tty mode instead of "`".
+OPTIONS=boulder:0

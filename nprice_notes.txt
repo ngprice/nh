@@ -1,0 +1,55 @@
+--quest floor: 15
+	--need to be level 14, 20 alignment first
+
+The Dungeons of Doom: levels 1 to 16
+   Level 1:
+      Many fountains, a grave.
+   Level 2:
+      A fountain.
+   Level 3:
+      A general store.
+      Stairs down to The Gnomish Mines.
+   Level 4:
+      An altar to Amaterasu Omikami.
+   Level 5:
+   Level 6:
+      A fountain.
+   Level 7:
+      An altar to Amaterasu Omikami, a fountain.
+   Level 8:
+      Many fountains.
+      Oracle of Delphi.
+   Level 9:
+      An altar, a sink.
+      Stairs up to Sokoban, level 8.
+   Level 10:
+      A sink, a grave.
+   Level 11:
+   Level 12:
+   Level 13:
+   Level 14:
+   Level 15:
+      A temple.
+      Summoned by Lord Sato.
+      Portal to The Quest.
+   Level 16: <- You were here.
+      A primitive area.
+The Gnomish Mines: levels 4 to 8
+   Level 4:
+   Level 5:
+   Level 6:
+      Many shops, a temple, some fountains.
+   Level 7:
+   Level 8:
+The Quest:
+   Level 1:
+      Home.
+Sokoban: levels 8 up to 5
+   Level 5:
+      Solved.
+   Level 6:
+      Solved.
+   Level 7:
+      Solved.
+   Level 8:
+      Solved.

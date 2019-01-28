@@ -1,6 +1,11 @@
 --quest floor: 15
 	--need to be level 14, 20 alignment first
 
+--item dump on floor 18, room northeast of upstair
+--gold dump on floor 20, by upstair
+
+/***** MAP *****/
+
 The Dungeons of Doom: levels 1 to 16
    Level 1:
       Many fountains, a grave.
